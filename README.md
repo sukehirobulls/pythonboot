@@ -1,5 +1,5 @@
 
-# Resumos | Git e Githyb
+# Resumos | Git e Github
 
 Repositorio para armazenar resumos sobre git e github do BootCamp Python Santander da DIO [Digital Inovation One](https://dio.me).
 
